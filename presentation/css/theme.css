@@ -135,7 +135,8 @@ body {
 
 .reveal h2,
 .reveal h3,
-.reveal h4 {
+.reveal h4,
+footer {
   font-family: "Montserrat Alternates", Arial, sans-serif;
   font-weight: 400; }
 
@@ -172,3 +173,7 @@ body {
 .reveal .editable {
   text-align: left;
   outline: none !important; }
+
+footer { position: fixed; right: 10px; bottom: 0; left: 10px; font-size: .5em; color: rgba(255,255,255,.5);}
+footer h1 { float: left; }
+footer h2 { float: right; }

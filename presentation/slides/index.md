@@ -3,5 +3,5 @@
 
 Grégory Copin & Clément Plou
 
-[@Inouit](http://inouit.com)
+#### [Inouit](http://inouit.com)
 #### <span class="small">06/2014</span>

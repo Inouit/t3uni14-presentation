@@ -1,1 +1,6 @@
-["index.md"]
+[
+  "index.md",
+  "introduction.md",
+  "install.md",
+  "front-end.md"
+]
