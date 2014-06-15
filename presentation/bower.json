@@ -1,7 +1,7 @@
 {
   "name": "optimiser-votre-temps-de-developpement-sous-typo3",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "dependencies": {
-    "reveal.js": "~2.5.0"
+    "reveal.js": "~2.6.1"
   }
 }

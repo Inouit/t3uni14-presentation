@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Optimiser votre temps de développement sous Typo3",
+    "packageVersion": "0.0.0",
+    "useSass": true
+  }
+}
