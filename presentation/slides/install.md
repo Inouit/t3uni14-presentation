@@ -1,3 +1,4 @@
+<!-- .slide: data-breadcrumb="Installation" -->
 # Installation & Scripts
 
 

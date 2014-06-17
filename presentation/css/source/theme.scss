@@ -169,3 +169,16 @@ body {
 .reveal .editable {
   text-align: left;
   outline: none !important; }
+
+/*********************************************
+ * Inouit theme
+ *********************************************/
+.reveal .progress { top: 0; bottom: auto; }
+.reveal .breadcrumb { position: absolute; top: 0; left: 0; right: 0; margin: 0; padding: 7px 10px;
+  li { display: inline-block;
+    color: white; font-size: 14px; }
+  .sep { margin: 0 10px;
+    content: ">"; color: white; }
+  li:last-child { font-weight: bold; }
+  li:first-letter { text-transform: uppercase; }
+}

@@ -173,15 +173,29 @@ body {
   text-align: left;
   outline: none !important; }
 
-
-
 /*********************************************
- * Inouit style
+ * Inouit theme
  *********************************************/
-.reveal .progress { top: 0; bottom: auto; }
+.reveal .progress {
+  top: 0;
+  bottom: auto; }
 
-.reveal .breadcrumb { position: absolute; top: 0; left: 0; right: 0; margin: 0; padding: 7px 10px; }
-.reveal .breadcrumb li { display: inline-block; margin: 0; padding: 0;
-  font-size: 14px; }
-.reveal .breadcrumb li+li:before { margin: 0 10px; content: ">"; }
-.reveal .breadcrumb li:last-child { font-weight: bold; }
+.reveal .breadcrumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 7px 10px; }
+  .reveal .breadcrumb li {
+    display: inline-block;
+    color: white;
+    font-size: 14px; }
+  .reveal .breadcrumb .sep {
+    margin: 0 10px;
+    content: ">";
+    color: white; }
+  .reveal .breadcrumb li:last-child {
+    font-weight: bold; }
+  .reveal .breadcrumb li:first-letter {
+    text-transform: uppercase; }
