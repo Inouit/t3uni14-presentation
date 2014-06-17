@@ -6,3 +6,4 @@ note:
   - Installation
   - Duplication et déploiement sur plusieurs architecture
   - Configuration Apache, Git, Configurations locales, Typo
+

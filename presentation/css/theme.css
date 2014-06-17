@@ -135,8 +135,7 @@ body {
 
 .reveal h2,
 .reveal h3,
-.reveal h4,
-footer {
+.reveal h4 {
   font-family: "Montserrat Alternates", Arial, sans-serif;
   font-weight: 400; }
 
@@ -174,6 +173,15 @@ footer {
   text-align: left;
   outline: none !important; }
 
-footer { position: fixed; right: 10px; bottom: 0; left: 10px; font-size: .5em; color: rgba(255,255,255,.5);}
-footer h1 { float: left; }
-footer h2 { float: right; }
+
+
+/*********************************************
+ * Inouit style
+ *********************************************/
+.reveal .progress { top: 0; bottom: auto; }
+
+.reveal .breadcrumb { position: absolute; top: 0; left: 0; right: 0; margin: 0; padding: 7px 10px; }
+.reveal .breadcrumb li { display: inline-block; margin: 0; padding: 0;
+  font-size: 14px; }
+.reveal .breadcrumb li+li:before { margin: 0 10px; content: ">"; }
+.reveal .breadcrumb li:last-child { font-weight: bold; }

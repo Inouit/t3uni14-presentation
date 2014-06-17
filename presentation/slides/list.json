@@ -2,5 +2,7 @@
   "index.md",
   "introduction.md",
   "install.md",
-  "front-end.md"
+  ["typo3.md", "skinDummy.md", "skin.md", "skinFlex.md"],
+  ["conclusion.md"],
+  "question.md"
 ]
