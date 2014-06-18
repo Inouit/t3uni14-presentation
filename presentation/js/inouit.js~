@@ -21,7 +21,7 @@
                 $li.clone()
                     .text(item)
                     .appendTo($('#breadcrumb'));
-            });
+            })
         }
     };
 
