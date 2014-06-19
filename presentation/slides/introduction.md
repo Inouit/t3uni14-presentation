@@ -4,4 +4,4 @@
 
 
 note:
-  Présentation succincte du workflow nécessaire à typo
+  Présentation succincte de la démarche d'optimisation

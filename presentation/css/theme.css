@@ -199,3 +199,23 @@ body {
     font-weight: bold; }
   .reveal .breadcrumb li:first-letter {
     text-transform: uppercase; }
+
+.reveal section img {
+  border: 0; }
+.reveal section .photo {
+  margin: 20px auto;
+  border-radius: 110px; }
+.reveal section .align-left {
+  text-align: left; }
+.reveal section .align-right {
+  text-align: right; }
+.reveal section .align-center {
+  text-align: center; }
+.reveal section .align-justify {
+  text-align: justify; }
+.reveal section .marginBottom {
+  padding-bottom: 50px; }
+.reveal section .intervenants {
+  margin: 30px 0; }
+  .reveal section .intervenants td {
+    text-align: center; }

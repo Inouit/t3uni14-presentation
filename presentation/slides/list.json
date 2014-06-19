@@ -1,8 +1,8 @@
 [
   "index.md",
   "introduction.md",
-  "install.md",
-  ["typo3.md", "skinDummy.md", "skin.md", "skinFlex.md"],
-  ["conclusion.md"],
+  "frontend.md",
+  ["t3-install.md", "t3-skinDummy.md", "t3-skin.md", "t3-skinFlex.md", "t3-skinFlex-generator.md"],
+  "conclusion.md",
   "question.md"
 ]

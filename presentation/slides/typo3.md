@@ -1,1 +1,0 @@
-<!-- .slide: data-breadcrumb="typo3" -->

@@ -1,5 +1,6 @@
 <!-- .slide: data-breadcrumb="Installation" -->
-# Installation & Scripts
+# Typo3 :
+##Installation VS Duplication
 
 
 note:
