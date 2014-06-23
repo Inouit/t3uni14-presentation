@@ -236,6 +236,10 @@ body {
   vertical-align: top; }
 .reveal section thead th.vs {
   border: 0; }
+.reveal section .sources th, .reveal section .sources td,
+.reveal section .intervenants th,
+.reveal section .intervenants td {
+  padding: 2px 10px; }
 .reveal section .intervenants {
   margin: 30px 0; }
   .reveal section .intervenants td {

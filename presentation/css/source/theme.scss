@@ -206,6 +206,10 @@ body {
   th, td { vertical-align: top; }
   thead th.vs { @extend .orange; border: 0; }
 
+  .sources,
+  .intervenants {
+    th, td { padding: 2px 10px; }
+  }
   .intervenants { margin: 30px 0;
     td { text-align: center; }
   }

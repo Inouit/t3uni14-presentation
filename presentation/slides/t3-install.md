@@ -1,21 +1,28 @@
-<!-- .slide: data-breadcrumb="Installation" -->
-# Typo3 :
+<!-- .slide: data-breadcrumb="Installation VS Duplication" -->
+# Première étape :
 
 <table class="reveal">
 	<thead>
-		<th width="48%">Installation</th>
-		<th width="4%" class="vs">VS</th>
-		<th width="48%">Duplication</th>
+		<tr>
+			<th width="48%">Installation</th>
+			<th width="4%" class="vs">VS</th>
+			<th width="48%">Duplication</th>
+		</tr>
 	</thead>
 	<tbody>
-		<td class="fragment fade-in">3 étapes à la portée de tous</td>
-		<td>
-		<td><ul>
-			<li class="fragment fade-in">3 questions</li>
-			<li class="fragment fade-in">déploiement sur plusieurs architectures</li>
-			<li class="fragment fade-in">configuration Apache, GIT, fichiers locaux, ...</li>		
-			<li class="fragment fade-in">install/configuration des extensions les plus courantes</li>		
-			<li class="fragment fade-in">configuration TS de base (menus, logo, favicon, ...)</li>		
-		</ul></td>
+		<tr>
+			<td><ul class="fragment fade-in">
+				<li>3 étapes à la portée de tous</li>
+				<li>xxx Package</li>
+	</ul></td>
+			<td>
+			<td><ul class="fragment fade-in">
+				<li>3 questions</li>
+				<li>déploiement sur plusieurs architectures</li>
+				<li>configuration Apache, GIT, fichiers locaux, ...</li>
+				<li>installation/configuration des extensions les plus courantes</li>
+				<li>configuration TS de base (menus, logo, favicon, ...)</li>		
+			</ul></td>
+		</tr>
 	</tbody>
 </table>
