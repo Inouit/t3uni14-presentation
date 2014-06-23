@@ -3,6 +3,6 @@
 ##*skinDummy*
 
 note:
-  skinFlex : configuration des éléments liés à gridelements
-  - configuration du colonnage
-  - configuration des FCE
+  Contrôle client sur des mises en page avancée<br>
+  Séparer la configuration de la base de donné<br>
+  Insertion des scripts "à la demande"<br>
