@@ -1,6 +1,6 @@
 <!-- .slide: data-breadcrumb="typo3,skinFlex" -->
 #Extension
-##*skinDummy*
+##*skinFlex*
 
 note:
   Contrôle client sur des mises en page avancée<br>
