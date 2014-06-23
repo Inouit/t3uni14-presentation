@@ -148,7 +148,7 @@ body {
 .yellow {
   color: #e7aa3c; }
 
-.orange {
+.orange, .reveal section thead th.vs {
   color: #ef9100; }
 
 .red {
@@ -215,6 +215,27 @@ body {
   text-align: justify; }
 .reveal section .marginBottom {
   padding-bottom: 50px; }
+.reveal section blockquote {
+  background: none;
+  border-bottom: 1px solid white;
+  font-size: 2em;
+  line-height: 1.5em;
+  text-align: left; }
+  .reveal section blockquote .author {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1em;
+    font-style: normal;
+    text-align: right; }
+.reveal section thead th, .reveal section tbody td {
+  padding: 20px; }
+.reveal section thead th {
+  border-bottom: 1px solid white;
+  text-align: center; }
+.reveal section th, .reveal section td {
+  vertical-align: top; }
+.reveal section thead th.vs {
+  border: 0; }
 .reveal section .intervenants {
   margin: 30px 0; }
   .reveal section .intervenants td {

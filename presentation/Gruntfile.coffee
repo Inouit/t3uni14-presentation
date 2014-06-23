@@ -39,8 +39,10 @@ module.exports = (grunt) ->
         sass:
 
             theme:
-                files:
+                files: [
                     'css/theme.css': 'css/source/theme.scss'
+                    'css/theme_notes.css': 'css/source/theme_notes.scss'
+                ]
 
         connect:
 

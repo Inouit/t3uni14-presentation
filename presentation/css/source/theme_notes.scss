@@ -1,0 +1,20 @@
+.grey {
+  color: #e7aa3c; }
+
+.yellow {
+  color: #e7aa3c; }
+
+.orange {
+  color: #ef9100; }
+
+.red {
+  color: #ff2c2d; }
+
+.green {
+  color: #17ff2e; }
+
+.blue {
+  color: #1b91ff; }
+
+p { font-size: 20px; }
+strong { @extend .orange;  }
