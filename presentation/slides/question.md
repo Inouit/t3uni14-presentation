@@ -3,7 +3,7 @@
 #Sources
 
 
-<table class=" marginBottom">
+<table class="sources marginBottom">
   <tr>
     <th>Script d'installation :</th>
     <td>https://github.com/Inouit/t3uni14-script-install</td>

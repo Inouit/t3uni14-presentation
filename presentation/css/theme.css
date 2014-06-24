@@ -236,7 +236,9 @@ body {
   vertical-align: top; }
 .reveal section thead th.vs {
   border: 0; }
+.reveal section .sources th, .reveal section .sources td {
+  padding: 2px 10px; }
 .reveal section .intervenants {
-  margin: 30px 0; }
+  margin: 10px 0; }
   .reveal section .intervenants td {
     text-align: center; }

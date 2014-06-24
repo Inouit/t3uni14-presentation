@@ -1,4 +1,4 @@
-# t3Uni
+# T3Uni
 ## <span class="orange">Optimiser votre temps de développement sous Typo3</span>
 
 <table class="intervenants reveal">
