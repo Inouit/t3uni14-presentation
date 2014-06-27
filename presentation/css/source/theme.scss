@@ -183,7 +183,7 @@ body {
   li:first-letter { text-transform: uppercase; }
 }
 .reveal section{
-  img { border: 0; }
+  img { border: 0; background-color: transparent; }
   .photo { margin: 20px auto; border-radius: 110px; }
 
   .align-left { text-align: left; }

@@ -1,7 +1,9 @@
 <!-- .slide: data-breadcrumb="typo3,skinFlex,générateur" -->
 #Yeoman est ton ami !
-<img src="img/demo-custom.gif" alt="" class="fragment fade-in"/>
-
+<div style="position: relative;">
+    <img src="img/demo-custom.gif" alt="" class="fragment fade-in"/>
+    <img src="img/demo-custom.gif" alt="" class="fragment fade-in"/>
+</div>
 note:
   Le **générateur** va permettre d'**insérer automatiquement** les fichiers nécessaires à la configuration d'un élément flexible.<br>
   Lors de la création il est possible d'ajouter différents type de **champs** au **flexform** (**image**, **rte**, **texte**...).<br>

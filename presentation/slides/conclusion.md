@@ -4,4 +4,5 @@
 
 
 note:
-La réflexion sur l'optimisation du travail est un **investissement à moyen terme hautement rentable**. **Basez-vous** sur ce qu'on vous a expliqué aujourd'hui, **adaptez-le**. C'est un processus **flexible** qui doit **vous ressembler** pour être adopté par vos équipes. Le passage à la version 6.2 nous a permis de **tout remettre à plat**. Nous vous livrons le résultat. N'hésitez pas à nous faire des **retours** dessus.
+La réflexion sur l'optimisation du travail est un **investissement à moyen terme hautement rentable**. Ce qu'on vous a montré aujourd'hui, c'est un processus **flexible**, **adaptable**, alors prenez le comme **base**, **cassez-le**, **personnalisez-le**. L'important c'est qu'il **vous ressemble**, qu'il ressemble aux **besoins de votre équipe**. C'est le seul moyen pour que ce soit adopté sans douleur.<br />
+Pour les versions 6.x de Typo, nous avons tout repris à zéro, aussi notre install et nos scripts ne sont pas encore parfait, mais c'est déjà une bonne base. N'hésitez pas à nous faire des **retours** dessus.

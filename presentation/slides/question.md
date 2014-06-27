@@ -1,4 +1,4 @@
-<!-- .slide: data-breadcrumb="À vous de jouer" -->
+<!-- .slide: data-breadcrumb="À vous de jouer : des questions ?" -->
 
 #Sources
 
@@ -35,14 +35,14 @@
 <table class="intervenants reveal">
   <tr>
     <td>
-      <img src="img/953deb3e9d.jpg" class="photo" alt=""/>
-      <h4>Clément Plou</h4>
-      <a href="http://twitter.com/devPlou" target="_blank">@devPlou</a>
-    </td>
-    <td>
-      <img src="img/d871d85a8c.jpg" class="photo" alt=""/>
+      <img src="img/mojito.jpg" width="150" class="photo" alt=""/>
       <h4>Grégory Copin</h4>
       <a href="http://twitter.com/gregcop1" target="_blank">@gregcop1</a>
+    </td>
+    <td>
+      <img src="img/biere.jpg" width="150" class="photo" alt=""/>
+      <h4>Clément Plou</h4>
+      <a href="http://twitter.com/devPlou" target="_blank">@devPlou</a>
     </td>
   </tr>
 </table>

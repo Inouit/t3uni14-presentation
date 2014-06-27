@@ -1,14 +1,19 @@
-<!-- .slide: data-breadcrumb="typo3,skin, front-end" -->
-#skin, le *Front-end*
-<ul>
-<li class="fragment fade-in">La continuité du back-end</li>
-<li class="fragment fade-in">une base solide</li>
-<li class="fragment fade-in">automatisée !</li>
-</ul>
+<!-- .slide: data-breadcrumb="typo3,skin, Grunt : le sanglier qui a changé ma vie" -->
+#Automatisation et *Front-end*
+<table class="reveal">
+  <tr>
+    <td width="33%"><img src="img/logo_grunt.png" height="150" alt=""/></td>
+    <td width="33%"><img src="img/logo_autoprefixer.png" height="150" alt=""/></td>
+    <td width="34%"><img src="img/logo_bower.png" height="150" alt=""/></td>
+  </tr>
+</table>
+<table class="reveal">
+  <tr>
+    <td width="50%"><img src="img/logo_coffeescript.png" height="150" alt=""/></td>
+    <td width="50%"><img src="img/logo_sass.png" height="150" alt=""/></td>
+  </tr>
+</table>
 
 note:
-  Les fichiers nécessaires **HTML, CSS, JS**, qu'ils viennent d'un **tierce partie ou maison**, qu'ils utilisent des **Pré-processeur** ou **non** ont une base **commune** à travers les sites.<br>
-  Tout est embarqué dans **skin**<br>
-  Par exemple cette base va permettre le rendue des **colonages et tranches**<br>
-  Le philosophie s'applique aussi au Front-end, l'**Automatisation**.<br>
-  Notre version va aussi inclure une serie de taches **Grunt** pour un **confort** de **dev/test** accrue (**browserSync**, **compilation**, **Génération de doc**)
+Puisqu'on parle de gabarit de page, j'aimerais m'attarder quelques secondes sur l'**automatisation** des tâches **tout au long du projet**. Sans entrer dans le **débat du pour ou contre les pré-processeurs** (tels que SASS, LESS ou autre), l'utilisation de **post-processeurs** est devenue, à nos yeux, **indispensable**. Imaginez un monde où vous n'avez plus à **compiler vos pré-processeurs** JS ou CSS, un monde qui **préfixe** automatiquement les fonctions dépréciés, qui vous avertit des **erreurs**, **compile**, **teste**, génère une **documentation**, **rafraîchit votre navigateur**. Je vois quelques yeux qui brillent là. Combien d'entre vous font encore au moins une de ces tâches à la main alors qu'elle pourrait être automtisée avec un post-processeur ?<br />
+**Et oui, quand on a la fainéantise dans les gènes, on se doit d'être malin. ;)**
