@@ -46,3 +46,6 @@
     </td>
   </tr>
 </table>
+
+note:
+Nous avons encore quelques minutes si vous avez des questions. Si vous n'êtes pas sur place, vous pouvez les poser sur le #t3uni14 ou directement à l'un ou l'autre de nos comptes twitter. Quoiqu'il en soit, si vous voulez approfondir certains sujets, n'hésitez surtout pas... Clément boit de la bière, moi des Mojitos. À vous de jouer.

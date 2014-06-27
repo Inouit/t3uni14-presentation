@@ -3,7 +3,7 @@
 ##*skinFlex*
 <table class="reveal">
     <tr valign="middle">
-        <td width="50%" style="vertical-align: middle"><img src="img/screen3.png" class="fragment shrink"  data-fragment-index="1" width="405" alt=""/></td>
+        <td width="50%" style="vertical-align: middle"><img src="img/screen3.png" class="fragment shrink"  data-fragment-index="2" width="405" alt=""/></td>
         <td width="50%" style="position: relative; vertical-align: middle"><img src="img/screen4.png" class="fragment grow"  data-fragment-index="1" width="311" alt=""/>
         <img src="img/screen5.png" class="fragment fade-in"  data-fragment-index="2" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;" width="405" alt=""/>
         </td>

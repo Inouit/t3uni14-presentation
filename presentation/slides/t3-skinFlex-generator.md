@@ -1,10 +1,6 @@
-<!-- .slide: data-breadcrumb="typo3,skinFlex,générateur" -->
+<!-- .slide: data-breadcrumb="typo3,skinFlex,Yo : le générateur qui vous veut du bien" -->
 #Yeoman est ton ami !
 <div style="position: relative;">
-    <img src="img/demo-custom.gif" alt="" class="fragment fade-in"/>
-    <img src="img/demo-custom.gif" alt="" class="fragment fade-in"/>
+    <img src="img/logo-yeoman.png" width="780" alt=""/>
+    <img src="img/demo-custom.gif" width="780" alt="" class="fragment fade-in" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"/>
 </div>
-note:
-  Le **générateur** va permettre d'**insérer automatiquement** les fichiers nécessaires à la configuration d'un élément flexible.<br>
-  Lors de la création il est possible d'ajouter différents type de **champs** au **flexform** (**image**, **rte**, **texte**...).<br>
-  Ce générateur permet d'automatiser le processus **rébarbatif** de **création de champs**, de **traduction** et de **rendu typoscript** d'**élément flexible**.

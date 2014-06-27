@@ -7,7 +7,7 @@
     };
 
     var refreshBreadCrumb = function () {
-        var $current = $('section.present').last()
+        var $current = $('section.present').last();
         var $li = $('<li/>');
         $('#breadcrumb li').not(':first')
         .remove();

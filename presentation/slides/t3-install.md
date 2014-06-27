@@ -28,7 +28,7 @@
 </table> 
 
 note:
-Dois-je installer un typo, où dois-je en dupliquer un ?<br />
+Première étape : dois-je installer un typo, où dois-je en dupliquer un ?<br />
 Depuis quelques années, nous avons vu fleurir des sites pré-construit, des *installation package*, des *twitter bootstrap*, ... <br />
 A nos yeux, ce sont d'**excellents outils pour une présentation**, mais ils sont **peu utilisables** au moment de commencer un site. Pourquoi ? <br /> 
 Parce qu'ils font **beaucoup trop de choses** ! Quand j'installe un site, ce qui me préoccupe **en premier** ne devrait pas être de **supprimer des pages**, d'**assainir une feuille de style**. Je n'ai pas non plus envie de configurer un virtual host, de dupliquer mon site sur l'ensemble des serveurs de développement et de test.<br />
