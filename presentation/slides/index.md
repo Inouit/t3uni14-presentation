@@ -1,5 +1,6 @@
 # #T3Uni14
 ## <span class="orange">Optimiser votre temps de travail</span>
+<span class="small">http://inouit.github.io/t3uni14-presentation/</span>
 
 <div style="position: relative">
     <table class="intervenants reveal">
@@ -24,7 +25,7 @@
     </table>
     <div class="fragment fade-in" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #111111;">
         <blockquote>Quand la paresse rend malheureux, elle a la même valeur que le travail.
-<span class="author">Jules Renard</span></blockquote>
+        <span class="author">Jules Renard</span></blockquote>
     </div>
 </div>
 

@@ -9,16 +9,12 @@
     <td>https://github.com/Inouit/t3uni14-script-install</td>
   </tr>
   <tr>
-    <th>HTML/CSS/JS dummy :</th>
-    <td>https://github.com/Inouit/dummy</td>
-  </tr>
-  <tr>
-    <th>Typo3 dummy :</th>
+    <th>Typo3 modèle :</th>
     <td>https://github.com/Inouit/dummyGeneric6/tree/work</td>
   </tr>
   <tr>
-    <th>T3Uni14 présentation :</th>
-    <td>https://github.com/Inouit/t3uni14-presentation</td>
+    <th>HTML/CSS/JS modèle :</th>
+    <td>https://github.com/Inouit/dummy</td>
   </tr>
   <tr>
     <th>Gridelements_fce :</th>
@@ -27,6 +23,10 @@
   <tr>
     <th>Générateur de FCE :</th>
     <td>https://github.com/Inouit/generator-grid-fce</td>
+  </tr>
+  <tr>
+    <th>T3Uni14 présentation :</th>
+    <td>http://inouit.github.io/t3uni14-presentation/</td>
   </tr>
 </table>
 
