@@ -81,6 +81,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
+                        'img/*'
                     ]
                     dest: 'dist/'
                 },{
@@ -89,6 +90,11 @@ module.exports = (grunt) ->
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
+
+        gh-pages:
+            options:
+                base: 'dist'
+            src: ['**']
 
 
     # Load all grunt tasks.
@@ -130,6 +136,12 @@ module.exports = (grunt) ->
             'sass'
             'buildIndex'
             'copy'
+        ]
+
+    grunt.registerTask 'gh-pages',
+        'Save presentation to Github pages.', [
+            'dist'
+            'gh-pages'
         ]
 
     # Define default task.
