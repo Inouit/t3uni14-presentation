@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <th>Typo3 modèle :</th>
-    <td>https://github.com/Inouit/dummyGeneric6/tree/work</td>
+    <td>https://github.com/Inouit/dummyGeneric6</td>
   </tr>
   <tr>
     <th>HTML/CSS/JS modèle :</th>

@@ -1,2 +1,0 @@
-# Script d'installation
-Le script d'installation qui est évoqué pendant la présentation est disponible à cette adresse : [https://github.com/Inouit/t3uni14-script-install](https://github.com/Inouit/t3uni14-script-install)
