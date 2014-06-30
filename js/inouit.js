@@ -1,0 +1,31 @@
+(function () {
+    'use strict';
+
+    var initBreadCrumb = function () {
+        Reveal.addEventListener('slidechanged', refreshBreadCrumb);
+        refreshBreadCrumb();
+    };
+
+    var refreshBreadCrumb = function () {
+        var $current = $('section.present').last();
+        var $li = $('<li/>');
+        $('#breadcrumb li').not(':first')
+        .remove();
+        if ($current.attr('data-breadcrumb')) {
+            var crumbs = $current.attr('data-breadcrumb').split(',');
+            crumbs.forEach(function (item) {
+                $li.clone()
+                    .addClass('sep')
+                    .text('>')
+                    .appendTo($('#breadcrumb'));
+                $li.clone()
+                    .text(item)
+                    .appendTo($('#breadcrumb'));
+            });
+        }
+    };
+
+    $(window).ready(function () {
+        initBreadCrumb();
+    });
+})();
