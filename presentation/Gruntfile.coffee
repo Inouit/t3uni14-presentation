@@ -91,7 +91,7 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
-        gh-pages:
+        'gh-pages':
             options:
                 base: 'dist'
             src: ['**']
@@ -138,7 +138,7 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-    grunt.registerTask 'gh-pages',
+    grunt.registerTask 'github',
         'Save presentation to Github pages.', [
             'dist'
             'gh-pages'
