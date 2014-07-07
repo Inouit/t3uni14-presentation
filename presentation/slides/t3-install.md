@@ -12,7 +12,7 @@
 	<tbody>
 		<tr>
 			<td><ul class="fragment fade-in">
-				<li>3 étapes simples</li>
+				<li>3 à 5 étapes simples</li>
 				<li>Installation d'un package</li>
 	</ul></td>
 			<td>
@@ -26,6 +26,8 @@
 		</tr>
 	</tbody>
 </table>
+
+<img src="img/demo-install.gif" alt="" class="fragment fade-in"/>
 
 note:
 Première étape : dois-je installer un typo, où dois-je en dupliquer un ?<br />
