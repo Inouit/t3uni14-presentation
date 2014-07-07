@@ -1,2 +1,2 @@
-# Script d'installation
-Le script d'installation qui a été évoqué pendant la présentation est disponible à cette adresse : [https://github.com/Inouit/t3uni14-script-install](https://github.com/Inouit/t3uni14-script-install)
+# Duplication's script
+The script use for duplicate a website during this conference can be found here: [https://github.com/Inouit/t3uni14-script-install](https://github.com/Inouit/t3uni14-script-install)

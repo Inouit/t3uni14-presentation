@@ -1,2 +1,2 @@
-# Modèle de typo3
-Le modèle de site qui a été utilisé durant cette présentation est disponible à cette adresse : [https://github.com/Inouit/dummyGeneric6](https://github.com/Inouit/dummyGeneric6)
+# Typo3 dummy
+The website used as model during this conference can be found here: [https://github.com/Inouit/dummyGeneric6](https://github.com/Inouit/dummyGeneric6)
