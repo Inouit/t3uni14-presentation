@@ -1,5 +1,5 @@
 # #T3Uni14
-## <span class="orange">Optimiser votre temps de travail</span>
+## <span class="orange">Optimize your working time</span>
 <span class="small">http://inouit.github.io/t3uni14-presentation/</span>
 
 <div style="position: relative">
@@ -24,7 +24,7 @@
       </tr>
     </table>
     <div class="fragment fade-in" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #111111;">
-        <blockquote>Quand la paresse rend malheureux, elle a la même valeur que le travail.
+        <blockquote>When lazyness make unhappy, it has the same value as Work.
         <span class="author">Jules Renard</span></blockquote>
     </div>
 </div>
@@ -32,6 +32,10 @@
 
 
 note:
+  We will talk about "optimizing your working time". This title could excite your boss, but this conference is for you : the workers of the Dark side. You, who start every projects with the same steps : installation and painful configurations. We will talk comfort. We will talk about lazyness.<br />
+  I must confess: I'm a lazy personne! The kind of person that hate and flee repetetive tasks. Just think about this: How many time do you spend on the beginning of a project before making nice stuff? Half a day? A day? Two days? (Oo maybe, you should think about resign ;)).<br />
+  Clément, me, maybe some old developper in the room, just spend two minutes before having fun. Just two minutes! Don't think we chain website.
+
   Bonjour. Avant toute chose, merci à chacun de vous de nous consacrer une demie heure. Certes, nous allons parler "optimisation de temps de travail" et c'est un sujet qui ravierait vos patrons, mais à l'heure de manger, suivre une telle conférence peut être considéré comme un effort, alors merci. <br />
 J'espère ne pas les décevoir, mais cette présentation ne concerne pas les dirigeants qui sont peut-être parmi vous mais bien les petites mains qui commencent tous les projets de la même façon : des installations et de la configuration rébarbative qui changent peu d'un projet à l'autre. C'est de votre comfort de travail dont nous allons parler ici.<br />**BAS**
 J'ai un aveu à vous faire, je suis paresseux. Un vrai. J'ai en  horreur les tâches répétitives que ce soit en début ou en cours de projets et je fais tout ce que je peux depuis 13 ans pour les fuir comme la peste. Dites-moi, au début d'un projet, combien de temps passez-vous à configurer le serveurs, à installer typo3, faire la configuration de base ? une demi journée ? une journée ?<br />
