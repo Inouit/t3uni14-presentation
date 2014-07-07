@@ -1,27 +1,27 @@
-Présentation t3Uni14 : Optimiser votre temps de travail
-=======================================================
+Conference for t3Uni14 : Optimize your working time
+===================================================
 
-Chaque développeur connait le lent et pénible travail qu'impose le début d'un projet : installation de l'outil, configuration du serveur, de l'outil de versionning, duplication sur les différents environnements de développement et de test...
-Nous vous proposons d'automatiser ces tâches le plus possible et de ne faire dans le projet que ce pour quoi personne ne peut vous remplacer, ce pourquoi, vous apportez une vraie valeur ajoutée.
+Each developer know the slow and painful work due to the beginning of a project : framework install, server configuration, versionning tool, duplication of the project on each environments...
+We want to show you to automate those tasks as much as possible and to begin the project by stuff for which no one can replace you, where you can use your real value.
 
-La présentation est disponible au format html à cette adresse : [http://inouit.github.io/t3uni14-presentation/](http://inouit.github.io/t3uni14-presentation/)
-Une fois sur place, vous pouvez naviguer dans les slides avec les flêches de votre clavier et accéder aux notes en appuyant sur la touche "S"
-Bonne lecture.
+You can watch slides on html by following this link : [http://inouit.github.io/t3uni14-presentation-fr/](http://inouit.github.io/t3uni14-presentation-fr/),
+naviguate with your arrow keys and read notes by pressing "S" key.
+Have fun
 
 # Sources
 
 
 <table class="sources marginBottom">
   <tr>
-    <th>Script d'installation :</th>
+    <th>Duplication's script :</th>
     <td>https://github.com/Inouit/t3uni14-script-install</td>
   </tr>
   <tr>
-    <th>Typo3 modèle :</th>
+    <th>Typo3 dummy :</th>
     <td>https://github.com/Inouit/dummyGeneric6</td>
   </tr>
   <tr>
-    <th>HTML/CSS/JS modèle :</th>
+    <th>HTML/CSS/JS dummy :</th>
     <td>https://github.com/Inouit/dummy</td>
   </tr>
   <tr>
@@ -29,11 +29,11 @@ Bonne lecture.
     <td>http://typo3.org/extensions/repository/view/gridelements_fce</td>
   </tr>
   <tr>
-    <th>Générateur de FCE :</th>
+    <th>Generator for FCE :</th>
     <td>https://github.com/Inouit/generator-grid-fce</td>
   </tr>
   <tr>
-    <th>T3Uni14 présentation :</th>
-    <td>http://inouit.github.io/t3uni14-presentation/</td>
+    <th>T3Uni14 conference :</th>
+    <td>http://inouit.github.io/t3uni14-presentation-fr/</td>
   </tr>
 </table>
