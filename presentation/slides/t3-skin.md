@@ -1,11 +1,11 @@
-<!-- .slide: data-breadcrumb="typo3,skin : le thème" -->
+<!-- .slide: data-breadcrumb="typo3,skin : the theme" -->
 #Extension
 ##*skin*
 <table class="reveal">
-    <tr valign="middle">
-        <td width="50%" style="vertical-align: middle"><img src="img/screen2.png" class="fragment shrink"  data-fragment-index="1" width="405" alt=""/></td>
-        <td width="50%" style="vertical-align: middle"><img src="img/screen3.png" class="fragment grow"  data-fragment-index="1" width="311" alt=""/></td>
-    </tr>
+  <tr valign="middle">
+    <td width="50%" style="vertical-align: middle"><img src="img/screen2.png" class="fragment shrink"  data-fragment-index="1" width="405" alt=""/></td>
+    <td width="50%" style="vertical-align: middle"><img src="img/screen3.png" class="fragment grow"  data-fragment-index="1" width="311" alt=""/></td>
+  </tr>
 </table>
 
 note:
