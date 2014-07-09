@@ -32,14 +32,8 @@
 
 
 note:
-  We will talk about "optimizing your working time". This title could excite your boss, but this conference is for you : the workers of the Dark side. You, who start every projects with the same steps : installation and painful configurations. We will talk comfort. We will talk about lazyness.<br />
-  I must confess: I'm a lazy personne! The kind of person that hate and flee repetetive tasks. Just think about this: How many time do you spend on the beginning of a project before making nice stuff? Half a day? A day? Two days? (Oo maybe, you should think about resign ;)).<br />
-  Clément, me, maybe some old developper in the room, just spend two minutes before having fun. Just two minutes! Don't think we chain website.
-
-  Bonjour. Avant toute chose, merci à chacun de vous de nous consacrer une demie heure. Certes, nous allons parler "optimisation de temps de travail" et c'est un sujet qui ravierait vos patrons, mais à l'heure de manger, suivre une telle conférence peut être considéré comme un effort, alors merci. <br />
-J'espère ne pas les décevoir, mais cette présentation ne concerne pas les dirigeants qui sont peut-être parmi vous mais bien les petites mains qui commencent tous les projets de la même façon : des installations et de la configuration rébarbative qui changent peu d'un projet à l'autre. C'est de votre comfort de travail dont nous allons parler ici.<br />**BAS**
-J'ai un aveu à vous faire, je suis paresseux. Un vrai. J'ai en  horreur les tâches répétitives que ce soit en début ou en cours de projets et je fais tout ce que je peux depuis 13 ans pour les fuir comme la peste. Dites-moi, au début d'un projet, combien de temps passez-vous à configurer le serveurs, à installer typo3, faire la configuration de base ? une demi journée ? une journée ?<br />
-Clément et moi, peut-être d'autres développeurs ici, nous y passons 2 minutes... 2 minutes. Nos projets sont sans doute aussi diversifiés que les autres, mais notre but, c'est que quelques soient vos besoins, toutes ces tâches soient terminées, sans intervention de votre part, avant que vous ayez fini votre mug de café.<br />
-Nous allons d'abord vous expliquer comment gagner énormément de temps à l'installation, puis dans un second temps, comment organiser votre travail pour sortir beaucoup plus vite des startings blocks. Si nous avons le temps, j'espère pouvoir vous montrer comment un générateur Yeoman peut vous changer la vie. <br />
-Quoiqu'il en soit, n'hésitez pas à poser  vos question sur twitter #t3uni14, puisque nous y consacrerons dix minutes en fint de présentation. C'est ok pour tout le monde ? on y va ?
-**DROITE**
+  We will talk about "optimizing your working time". Maybe this kind of title could excite your boss, but in fact this conference is for you : the workers of the Dark side. You, who start every projects with the same steps : installation and painful configurations. We will talk about comfort, about lazyness.<br />
+  I have to confess: I'm a lazy person! The kind of person that hate and flee repetetive tasks. Just think about this: How many time do you spend at the beginning of a project before making nice stuff? Half a day? A day? Two days? (Oo maybe, you should think about resign ;)).<br />
+  Clément, me, maybe you if you have ever think about your lost time, we just spend two minutes before having fun. Just two minutes!<br />Don't think we chain website. You can check Inouit's realisations and see they are pretty diversified. Our goal is to make your boring tasks excecuted automatically, whatever your needs, before you've finished your coffee.<br />
+  First, we'll explain you how you can save a lot of time during the installation process. Next, we'll show you our process, it could be inspiring for your workflow. Finally we'll explain you how a Yeoman generator could save a life.
+  Let's start!
