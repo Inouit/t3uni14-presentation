@@ -34,7 +34,7 @@
 
 note:
   First step: Should I install a new instance or duplicate an existing one ?<br />
-  What makes a installation: cf. slide<br />
-  Since many years pre-installed frameworks florish. You've certainly heard of Twitter bootstrap, Introduction package, Government package... For us, they are wonderfull tools... to make quick demo, but not to start projects. Why?<br />
+  What makes a installation? cf. slide<br />
+  Since many years pre-installed frameworks florish. You've certainly heard of Twitter bootstrap, Introduction package, Government package... For us, they are wonderfull tools... to make quick demo, but not to start Agency's projects. Why?<br />
   The answer is pretty simple. They includes too many futile things! When I start a project, I don't want to remove demo pages, I don't want to clean 2000 lines of CSS. I want to build things. A developer is a creator, not a cleaner. (don't make me say what I didn't say: I love maids :p)<br />
   Maybe, we could make a Inouit package with our typo3 configuration but our needs exceed typo3 boundaries so we have a typo3 almost empty installation (easy to maintain) that we duplicate with a script. What are the differences? cf. slide

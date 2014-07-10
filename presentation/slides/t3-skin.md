@@ -9,7 +9,5 @@
 </table>
 
 note:
-L'extension skin correspond au thème de votre site. Elle vient puisez des éléments dans skinDummy, en surcharger d'autre et représente ce qui sera au final le coeur de votre projet. Vous y déclarez vos templates, vos blocs de configuration typoscript, vos assets, la surcharge des extensions, ... L'intégralité de votre intervention sur le site est stocké ici.<br />
-Si vous êtes amenés quelques années après la création du site, à le refondre entièrement, vous supprimez l'extension, en créez une nouvelle et vous n'aurez laissé aucune trace de votre premier passage.<br />
-**BAS**
-Notre choix est que skin contienne de base une template ainsi que les feuilles de style et scripts qui lui sont associés mais surtout, rien de superflu ! Si vous souhaitez utiliser bootstrap ou autre, vous êtes libres de le faire, et ça peut tout à fait s'inscrire dans cette démarche. Mais une fois de plus, pour nous, le trop est l'ennemi du bien et je vous enjoints à trouver le même équilibre pour simplifier vos débuts de projet. Dans la continuité, blablabla, automatisation **BAS**
+  Nous parlions de thème, voici l'extension qui s'en occupe : skin. C'est dans cette extension que vous placerez vos templates HTML, CSS, JS, la configuration typoscript liée à l'intégration, la configuration définitive des extensions, ... Si skinDummy est inamovible, skin va évoluer au fur et à mesure du projet. De base elle contient déjà un peu de configuration, amenée à changer, mais surtout rien de superflu. <br />
+  Pensez aussi à en faire un plugin totalement autonome. Si vous êtes amenés à refondre le site, vous devriez être en mesure de désinstaller skin et en créer un nouveau sans qu'aucun résidu ne vienne perturber le remaniement.
