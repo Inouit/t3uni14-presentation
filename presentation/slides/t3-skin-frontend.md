@@ -1,4 +1,4 @@
-<!-- .slide: data-breadcrumb="typo3,skin, Grunt : le sanglier qui a changé ma vie" -->
+<!-- .slide: data-breadcrumb="typo3,skin,Grunt : the boar who saved lifes" -->
 #Automatisation et *Front-end*
 <table class="reveal">
   <tr>
@@ -15,6 +15,5 @@
 </table>
 
 note:
-Puisqu'on parle de gabarit de page, j'aimerais m'attarder quelques secondes sur l'automatisation des tâches tout au long du projet. Sans entrer dans le débat du pour ou contre les pré-processeurs (tels que SASS, LESS ou autre), l'utilisation de post-processeurs est devenue, à nos yeux, indispensable. Imaginez un monde où vous n'avez plus à compiler vos pré-processeurs JS ou CSS, un monde qui préfixe automatiquement les fonctions dépréciés, qui vous avertit des erreurs, compile, teste, génère une documentation, rafraîchit votre navigateur. Je vois quelques yeux qui brillent là. Combien d'entre vous font encore au moins une de ces tâches à la main alors qu'elle pourrait être automtisée avec un post-processeur ?<br />
-Notre environement de travail est prêt, nous pouvons y ajouter notre valeur, celle-ci passe par des contenus.<br>
-**DROITE**
+  There's a lot of optimisation to do during the HTML/JS/CSS building process. At Inouit, we use Grunt. Grunt is a task manager based on javascript (pretty easy for configuration and maintenance). With Grunt, you can launch pre/post-processor (auto-prefixer, Sass and coffeescript builder), inspect code, ... but mainly, you can automate this tasks by listening the save on your file... you see what comes? Yes! Edit a Sass file, save and watch your browser be refreshed automatically with your modification. You have to make test on screen, tablet and mobile? Come on, let Grunt do the job of synchronization for you.<bbr />
+  Ok. You're ready to work, let's  talk about contents.

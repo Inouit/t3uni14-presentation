@@ -1,5 +1,5 @@
 <!-- .slide: data-breadcrumb="Installation VS Duplication" -->
-# PFirst step :
+# First step :
 
 <table class="reveal">
   <thead>
@@ -17,6 +17,7 @@
           <li>Package inclusion</li>
         </ul>
       </td>
+      <td></td>
       <td>
         <ul class="fragment fade-in">
           <li>2 questions (username, name of the project)</li>

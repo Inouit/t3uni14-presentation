@@ -9,5 +9,5 @@
 </table>
 
 note:
-  Nous parlions de thème, voici l'extension qui s'en occupe : skin. C'est dans cette extension que vous placerez vos templates HTML, CSS, JS, la configuration typoscript liée à l'intégration, la configuration définitive des extensions, ... Si skinDummy est inamovible, skin va évoluer au fur et à mesure du projet. De base elle contient déjà un peu de configuration, amenée à changer, mais surtout rien de superflu. <br />
-  Pensez aussi à en faire un plugin totalement autonome. Si vous êtes amenés à refondre le site, vous devriez être en mesure de désinstaller skin et en créer un nouveau sans qu'aucun résidu ne vienne perturber le remaniement.
+  We've just talk about theme, skin is your theme extension. In this plugin, you will store your templates, assets, typoscript configuration, hooks, ... If skinDummy never change, skin will evolve a lot during the project. However, it could contain some default configuration but once again, nothing that unnecessary<br />
+  Watch out: this plugin must be independant. In the future, if you have to build another skin, you should be able to remove the old one without residual code that will trouble the new one.

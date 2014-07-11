@@ -1,4 +1,4 @@
-Conference for t3Uni14 : Optimize your working time
+Conference for t3Uni14: Optimize your working time
 ===================================================
 
 Each developer know the slow and painful work due to the beginning of a project : framework install, server configuration, versionning tool, duplication of the project on each environments...
@@ -13,27 +13,27 @@ Have fun
 
 <table class="sources marginBottom">
   <tr>
-    <th>Duplication's script :</th>
+    <th>Duplication's script:</th>
     <td>https://github.com/Inouit/t3uni14-script-install</td>
   </tr>
   <tr>
-    <th>Typo3 dummy :</th>
+    <th>Typo3 dummy:</th>
     <td>https://github.com/Inouit/dummyGeneric6</td>
   </tr>
   <tr>
-    <th>HTML/CSS/JS dummy :</th>
+    <th>HTML/CSS/JS dummy:</th>
     <td>https://github.com/Inouit/dummy</td>
   </tr>
   <tr>
-    <th>Gridelements_fce :</th>
+    <th>Gridelements_fce:</th>
     <td>http://typo3.org/extensions/repository/view/gridelements_fce</td>
   </tr>
   <tr>
-    <th>Generator for FCE :</th>
+    <th>Generator for FCE:</th>
     <td>https://github.com/Inouit/generator-grid-fce</td>
   </tr>
   <tr>
-    <th>T3Uni14 conference :</th>
+    <th>T3Uni14 conference:</th>
     <td>http://inouit.github.io/t3uni14-presentation-fr/</td>
   </tr>
 </table>
