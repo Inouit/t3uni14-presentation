@@ -32,8 +32,9 @@
 
 
   note:
-  We will talk about "optimizing your working time". Maybe this kind of title could excite your boss, but in fact this conference is for you : the workers of the Dark side. You, who start every projects with the same steps : installation and painful configurations. We will talk about comfort, about lazyness.<br />
-  I have to confess: I'm a lazy person! The kind of person that hate and flee repetetive tasks. Just think about this: How many time do you spend at the beginning of a project before making nice stuff? Half a day? A day? Two days? (Oo maybe, you should think about resign ;)).<br />
-  Clément, me, maybe you if you have ever think about your lost time, we just spend two minutes before having fun. Just two minutes!<br />Don't think we chain website. You can check Inouit's realisations and see they are pretty diversified. Our goal is to make your boring tasks excecuted automatically, whatever your needs, before you've finished your coffee.<br />
-  First, we'll explain you how you can save a lot of time during the installation process. Next, we'll show you our process, it could be inspiring for your workflow. Finally we'll explain you how a Yeoman generator could save a life.
+  We'll talk about how to "Optimize your working time". Your employers may already have sparkles in their eyes, but this talk is for you, Dark side workers. you who'll start every project with the same meaningless steps: installation and painfull configurations. We'll talk about comfort and lazyness.<br />
+  I have to share with you : I'm lazy ! I'm from the kind of persons that hate and flee repetitive brainless tasks. Just think about this: How many time do you spend on starting a project before actually building some thing? Half a day? A day? Two days? (Oo you should think about resigning ;))<br />
+  Clément, me and you, if you've think about your lost time once, we spend no more than two minutes before having fun. Only Two!<br />
+  Don't think we design industrial websites. You can check on our projects, they're far from being clones. Our goal is to make your boring tasks automated, whatever your needs are and before you've seen the bottom of your coffee cup.<br />
+  First, we'll explain you how you can save yourself a lot of time and pain with the installation process. Then, we'll show you our process, and how it should be inspiring you to rethink your workflow. Finally we'll explain you how a Yeoman generator could save lifes.<br />
   Let's start!
